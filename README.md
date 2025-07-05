@@ -34,7 +34,7 @@ Este projeto foi criado com o objetivo de praticar os fundamentos do desenvolvim
 1. Clone este repositório:
    ```bash
    git clone https://github.com/araot/FdeCadastro.git
-2. Importe o banco de dados disponível no diretório /sql 
+2. Importe o banco de dados disponível no diretório /africa.sql 
 
 3. Configure a conexão com o banco de dados no arquivo:
 
